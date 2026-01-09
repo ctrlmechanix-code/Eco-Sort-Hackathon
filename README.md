@@ -6,7 +6,7 @@
 ECO-SORT is a premium, React-based web application designed to gamify and streamline the process of recycling electronic waste on university campuses. It guides users through identifying devices, finding collection points, and tracking their environmental impact.
 
 1. Google Cloud Link: ![sitelink]()
-2. Vercel link: ![ecosort](https://eco-sort-hackathon.vercel.app)
+2. Vercel link: ![ecosort](https://eco-sort-hackathon.vercel.app/)
 
 
 ![React](https://img.shields.io/badge/React-18-61DAFB.svg)
